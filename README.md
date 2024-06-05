@@ -63,4 +63,4 @@ _Abaixo está um exemplo de como você pode instruir seu público a instalar e c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: https://github.com/hnralmeida/BankTerminal/reference/product-screenshot.png?raw=true
+[product-screenshot]: https://github.com/hnralmeida/BankTerminal/blob/master/reference/product-screenshot.png?raw=true
